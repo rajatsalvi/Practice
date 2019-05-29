@@ -2,6 +2,3 @@ Hello
 This is my first gitbash
 ////
 loop
-.
-.
-Bye.///
